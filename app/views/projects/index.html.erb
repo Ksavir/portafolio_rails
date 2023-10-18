@@ -1,0 +1,36 @@
+<div class="container">
+  <div class="row row-cols-3">
+    <div class="col">
+      <div class="card">
+        <%= image_tag 'github_kr.png', alt: 'My image', class: 'card-img-top', id: 'carta' %>
+        <div class="card-body">
+          <h5 class="card-title">Card title</h5>
+          <p class="card-text">This is a card with some text content.</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card">
+        <%= image_tag 'kevinsavir.jpg', alt: 'My image', class: 'card-img-top', id: 'carta' %>
+        <div class="card-body">
+          <h5 class="card-title">Card title</h5>
+          <p class="card-text">This is a card with some text content.</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card">
+        <%= image_tag 'github_kr.png', alt: 'My image', class: 'card-img-top' ,id: 'carta' %>
+        <div class="card-body">
+          <h5 class="card-title">Card title</h5>
+          <p class="card-text">This is a card with some text content.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="d-grid gap-2">
+<%= link_to('https://www.linkedin.com/in/k-rivas-r/', class: 'btn btn-success rounded-pill', target: '_blank', id: 'btn_projects') do %>
+  <span class="fa fa-link"></span> Seguir viendo
+<% end %>
+</div>
