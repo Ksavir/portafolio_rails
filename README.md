@@ -1,4 +1,4 @@
-# Kecin Rivas Portafolio
+# Kevin Rivas Portafolio
 
 Esta es una página web que muestra el portafolio de Kevin Rivas, Ingeniero Quimico de profesión y desarrollador de corazon, con experiencia en HTML, CSS, JavaScript, Bootstrap, Python, Django, aprendiendo Ruby on Rails y otras tecnologías web.
 
